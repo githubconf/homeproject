@@ -16,7 +16,7 @@ public class Homeproject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("dene git !!!!!!!!!!!!!!!!");
+        System.out.println("dene git ");
     }
     
 }
