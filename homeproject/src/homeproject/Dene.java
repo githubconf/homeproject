@@ -16,5 +16,6 @@ public class Dene {
         System.out.println("br1 brnch message");
     
         System.out.println("dene class br2");
+        System.out.println("dene class br2 i nremote");
       }
 }
