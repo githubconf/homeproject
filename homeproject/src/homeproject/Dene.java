@@ -12,7 +12,7 @@ package homeproject;
 public class Dene {
     public Dene(){
         System.out.println("br1 brnch message");
-    }
+    
         System.out.println("dene class br2");
       }
 }
