@@ -16,7 +16,7 @@ public class Homeproject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("dene gitmain class updTE ");
+        System.out.println("dene gitmain class deneme branch ");
     }
     
 }
