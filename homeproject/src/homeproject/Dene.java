@@ -11,7 +11,6 @@ package homeproject;
  */
 public class Dene {
     public Dene(){
-        System.out.println("dene class br1");
-        System.out.println("dene class br1 added");
-    }
+        System.out.println("dene class br2");
+      }
 }
