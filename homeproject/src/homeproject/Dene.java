@@ -11,6 +11,6 @@ package homeproject;
  */
 public class Dene {
     public Dene(){
-        System.out.println("dene class  deneme branch");
+        System.out.println("dene class  deneme branch update");
     }
 }
