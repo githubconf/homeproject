@@ -18,4 +18,7 @@ public class Dene {
         System.out.println("dene class br2");
         System.out.println("dene class br2 i nremote");
       }
+      public void addDene(){
+          System.out.println("dene class addDene function");
+      }
 }
