@@ -11,6 +11,6 @@ package homeproject;
  */
 public class Dene {
     public Dene(){
-        System.out.println("dene class  init update");
+        System.out.println("dene class  init update kaldırıldı");
     }
 }
