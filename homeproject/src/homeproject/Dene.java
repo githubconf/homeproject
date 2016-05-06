@@ -13,4 +13,7 @@ public class Dene {
     public Dene(){
         System.out.println("br1 update");
     }
+    public void fıncbr1(){
+        System.out.println("func in br1");
+    }
 }
